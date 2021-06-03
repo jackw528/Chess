@@ -9,9 +9,9 @@ public class Piece {
         this.column = column;
         this.name = name;
         if (isWhite) {
-            this.color = "White"; //can store as hex
+            this.color = "White"; 
         } else {
-            this.color = "Black"; //can store as hex
+            this.color = "Black"; 
         }
     }
 
